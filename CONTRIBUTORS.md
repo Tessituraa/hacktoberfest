@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jason Lynch](https://github.com/tessituraa)
+- Place: Memphis, Tennessee
+- Bio: Full-Stack Software Developer
+- Github: [Jason Lynch](https://github.com/tessituraa)
